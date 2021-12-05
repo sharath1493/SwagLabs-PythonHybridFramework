@@ -7,7 +7,7 @@ Home:
 
 Login:
   1. Login with Standard User
-  2. Login - Data Driven 
+  2. Login - Data Driven test with Wrong Credentials and Correct Credentials
   
 Inventory:
   1. Verifying the Default order of Product catalog
