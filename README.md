@@ -1,6 +1,7 @@
 # SwagLabs-PythonHybridFramework
 
 #Test Cases
+
 Home:
   1. Verifying the URL launched correct being re-directed to the SwagLabs
 
